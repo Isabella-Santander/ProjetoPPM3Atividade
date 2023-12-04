@@ -177,8 +177,8 @@ function processarCadastroUsuario(requisicao, resposta){
                 <title>Alunos Cadastrados</title>
                 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
             </head>
-            <body>
-                <h1 style="color: green; text-align: center;">Lista de Alunos cadastrados</h1>
+            <body style="background-color: #d6e9eb;">
+                <h1 style="color: #066a75; text-align: center;">Lista de Usuários Cadastrados</h1>
                 <table class="table table-striped table-hover">
                     <thead>
                         <tr>
